@@ -1,0 +1,36 @@
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\bin\Debug\tarea.exe.config
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.csprojResolveAssemblyReference.cache
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.Form1.resources
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.Properties.Resources.resources
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.Cache
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\bin\Debug\tarea.exe
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\bin\Debug\tarea.pdb
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.exe
+c:\users\laboratorio_bg\documents\visual studio 2013\Projects\tarea\tarea\obj\Debug\tarea.pdb
+C:\Users\laboratorio_bg\Documents\Visual Studio 2013\Projects\tarea\tarea\obj\Debug\tarea.Form2.resources
+C:\Users\laboratorio_bg\Documents\Visual Studio 2013\Projects\tarea\tarea\obj\Debug\tarea.Form3.resources
+C:\Users\laboratorio_bg\Documents\Visual Studio 2013\Projects\tarea\tarea\obj\Debug\tarea.Form4.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\bin\Debug\tarea.exe.config
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\bin\Debug\tarea.exe
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\bin\Debug\tarea.pdb
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.Form1.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.Form2.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.Form3.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.Form4.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.Properties.Resources.resources
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.cache
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.exe
+D:\Escritorio\trabajos aiep\trabajos taller programacion\tarea a finales de septiembre\tarea\tarea\obj\Debug\tarea.pdb
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\bin\Debug\tarea.exe.config
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.pdb
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.Form1.resources
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.Form2.resources
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.Form3.resources
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.Form4.resources
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.Properties.Resources.resources
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\obj\Debug\tarea.csproj.GenerateResource.Cache
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\laboratorio_bg\Downloads\tarea\tarea\bin\Debug\tarea.pdb
